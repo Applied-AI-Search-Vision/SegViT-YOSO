@@ -9,3 +9,14 @@ This repository contains the implementation of a unique combination of Vision Tr
 ## Setup
 
 1. Clone this repository:
+2. Navigate to the project directory: 
+3. Install the required dependencies:
+> Note: You might want to consider creating a virtual environment for the project.
+
+4. Download the dataset and place it under the `datasets/` directory.
+
+## Usage
+
+To train the model:
+python src/train.py
+
