@@ -15,8 +15,5 @@ This repository contains an ongoing project focusing on implementing a combinati
 
 4. Download the COCO dataset and place it under the `datasets/` directory.
 
-## Usage
 
-To train the model:
-python src/train.py
 
