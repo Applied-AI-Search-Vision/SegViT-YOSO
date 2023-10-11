@@ -4,7 +4,7 @@ Ongoing work on segmentation using Vision Transformers combined with YOSO archit
 
 ## Introduction
 
-This repository contains an ongoing project focusing on implementing a combination of Vision Transformers (ViT) and the YOSO (You Only Segment Once) architecture for image segmentation tasks. 
+The project aims to train a dot in a 2D environment to avoid obstacles using Reinforcement Learning (RL) and a Vision Transformer (ViT). The 2D environment is constructed using pygame, and the RL and ViT components are built with PyTorch. The goal of the project is to generate a combination of Vision Transformers (ViT) and the YOSO (You Only Segment Once) architecture for better performance. 
 
 ## Setup
 
