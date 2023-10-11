@@ -13,7 +13,7 @@ This repository contains an ongoing project focusing on implementing a combinati
 3. Install the required dependencies:
 > Note: You might want to consider creating a virtual environment for the project.
 
-4. Download the dataset and place it under the `datasets/` directory.
+4. Download the COCO dataset and place it under the `datasets/` directory.
 
 ## Usage
 
