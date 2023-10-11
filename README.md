@@ -1,6 +1,6 @@
 # SegViT-YOSO
 
-Segmentation using Vision Transformers combined with YOSO architecture.
+Ongoing work on segmentation using Vision Transformers combined with YOSO architecture.
 
 ## Introduction
 
