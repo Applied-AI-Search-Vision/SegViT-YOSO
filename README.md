@@ -1,4 +1,4 @@
-# SegViT-YOSO
+# SegViT-YOSO-ObstacleAvoidance
 
 Ongoing work on segmentation using Vision Transformers combined with YOSO architecture.
 
